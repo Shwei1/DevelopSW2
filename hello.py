@@ -4,3 +4,6 @@ def HELLOWORLD(a):
 
 def BYEWORLD(a):
     print(a)
+
+def mmfknu():
+    print("Mekhmat moshch")
